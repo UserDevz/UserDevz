@@ -14,5 +14,6 @@
 </details>
 <details>
   <summary>Minhas redes sociais:</summary>
-  <a href='wa.me/+5567998318445'>WhatsApp</a>
+  <li>WhatsApp: (67) 998318445
+  <li>Facebook: Wendel Mizael
 </details>
