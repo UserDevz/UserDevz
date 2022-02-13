@@ -4,6 +4,7 @@
 <b>Cidade: Itapevi-SP</b></br>
 <b>Conhecimento: Python, C, Shell Script</b></br>
 <b>Cursos: Redes de computadores</b></br>
+<b>Estudando: <b>Haskell, Redes neurais e mecanica quantica</b>
 
 <details>
   <summary>Meus projetos:</summary></br>
@@ -13,4 +14,5 @@
 </details>
 <details>
   <summary>Minhas redes sociais:</summary>
+  <a href='wa.me/+5567998318445'>WhatsApp</a>
 </details>
