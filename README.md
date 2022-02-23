@@ -2,7 +2,7 @@
 
 <b>Idade: 17 anos</b></br>
 <b>Cidade: Itapevi-SP</b></br>
-<b>Conhecimento: Python, C, Shell Script</b></br>
+<b>Conhecimento: Python, C, Shell Script, Pentest</b></br>
 <b>Cursos: Redes de computadores</b></br>
 <b>Estudando: <b>Haskell, Redes neurais e mecanica quantica</b></br>
 <b><i>Freelancer, faço projetos por encomenda etc...</b></i>
