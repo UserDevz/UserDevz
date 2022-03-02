@@ -3,9 +3,16 @@
 
 <img src='https://c.tenor.com/QnF7KI5w2OkAAAAM/nimu-nashe.gif'>
 
-<i><b>Ola visitantes, sou UserDevz, meu nome real é Maycon Wendel, tenho 17 anos e moro em Bataguassu-MS</b></i>
+<i><b>Bem vindos visitantes, nesta conta você encontrará alguns projetos legais feitos em linguagens diversificadas e de tipos diversificados...</b></i>
 
-<li> Tecnologias dominantes:</br>
+<h2>Um pouco sobre mim:</h2>
+<li> Idade: <b>17 Anos</b></br>
+<li> Localização: <b>Bataguassu-MS</b></br>
+<li> Cursos extras: <b>Redes e Pentest</b></br>
+<li> Cursando: <b>Haskell, Redes neurais e Mecânica Quântica!</b></br>
+<li> Hobby: <b>Matemática, programação e hacking</b></br></br></br>
+
+<li> <strong>Tecnologias dominantes:</strong></br>
   <img src='https://img.shields.io/badge/%20-%20Python-green'>
   <img src='https://img.shields.io/badge/%20-%20C-green'>
   <img src='https://img.shields.io/badge/%20-%20C++-green'>
