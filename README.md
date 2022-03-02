@@ -1,21 +1,20 @@
-<h1 text align='center'>UserDevz</h1>
-<img src='https://c.tenor.com/7OM1QNVM3-wAAAAM/archpepe.gif'>
+<h1 text align='center'>Olá, sou o UserDevz e bem vindos ao meu GitHub!</h1>
+</br>
 
-<b>Idade: 17 anos</b></br>
-<b>Cidade: Itapevi-SP</b></br>
-<b>Conhecimento: Python, C, Shell Script, Pentest</b></br>
-<b>Cursos: Redes de computadores</b></br>
-<b>Estudando: <b>Haskell, Redes neurais e mecanica quantica</b></br>
-<b><i>Freelancer, faço projetos por encomenda etc...</b></i>
+<img src='https://c.tenor.com/QnF7KI5w2OkAAAAM/nimu-nashe.gif'>
 
-<details>
-  <summary>Meus projetos:</summary></br>
-  <li> Imperator:</br>
-  <img src='https://img.shields.io/github/stars/UserDevz/imperator?style=social'></br>
-  <img src='https://img.shields.io/github/forks/UserDevz/imperator?style=social'>
-</details>
-<details>
-  <summary>Minhas redes sociais:</summary>
-  <li>WhatsApp: (67) 998318445
-  <li>Facebook: Wendel Mizael
-</details>
+<p>Ola visitantes, sou UserDevz, meu nome real é Maycon Wendel, tenho 17 anos e moro em Bataguassu-MS</p>
+
+<li> Tecnologias dominantes:</br>
+  <img src='https://img.shields.io/badge/%20-%20Python-green'>
+  <img src='https://img.shields.io/badge/%20-%20C-green'>
+  <img src='https://img.shields.io/badge/%20-%20C++-green'>
+  <img src='https://img.shields.io/badge/%20-%20Shell Script-green'>
+</br></br>
+
+<li> Repositórios:</br></br>
+  <b>Telegram-bot:</b></br>
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/UserDevz/Telegram-bot?style=plastic">
+
+  <b>Imperator Bot:</b></br>
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/UserDevz/Imperator?style=plastic">
