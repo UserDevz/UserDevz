@@ -12,7 +12,7 @@
   <img src='https://img.shields.io/badge/%20-%20Shell Script-green'>
 </br></br>
 
-<li> Repositórios:</br></br>
+<li> Repositórios:</br>
   <b>Telegram-bot:</b></br>
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/UserDevz/Telegram-bot?style=plastic">
 
