@@ -3,7 +3,7 @@
 
 <img src='https://c.tenor.com/QnF7KI5w2OkAAAAM/nimu-nashe.gif'>
 
-<p>Ola visitantes, sou UserDevz, meu nome real é Maycon Wendel, tenho 17 anos e moro em Bataguassu-MS</p>
+<i><b>Ola visitantes, sou UserDevz, meu nome real é Maycon Wendel, tenho 17 anos e moro em Bataguassu-MS</b></i>
 
 <li> Tecnologias dominantes:</br>
   <img src='https://img.shields.io/badge/%20-%20Python-green'>
