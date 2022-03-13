@@ -6,7 +6,7 @@
 <i><b>Bem vindos visitantes, nesta conta você encontrará alguns projetos legais feitos em linguagens diversificadas e de tipos diversificados...</b></i>
 
 <h2>Um pouco sobre mim:</h2>
-<li> Idade: <b>17 Anos</b></br>
+<li> Idade: <b>18 Anos</b></br>
 <li> Localização: <b>Bataguassu-MS</b></br>
 <li> Cursos extras: <b>Redes e Pentest</b></br>
 <li> Cursando: <b>Haskell, Redes neurais e Mecânica Quântica!</b></br>
