@@ -1,7 +1,8 @@
 <h1 text align='center'>Olá, sou o UserDevz e bem vindos ao meu GitHub!</h1>
 </br>
+<strong>UserDevz:</strong><i>Você tem um problema, eu tenho a solução!</i></br>
 
-<img src='https://c.tenor.com/QnF7KI5w2OkAAAAM/nimu-nashe.gif'>
+</br><img src='https://c.tenor.com/QnF7KI5w2OkAAAAM/nimu-nashe.gif'>
 
 <i><b>Bem vindos visitantes, nesta conta você encontrará alguns projetos legais feitos em linguagens diversificadas e de tipos diversificados...</b></i>
 
